@@ -5,7 +5,8 @@
 
 This repository contains the curriculum materials used for the Intelligent Control Systems course YTU Department of Control and Automation Engineering.
 # Computational-Thinking-Tools
-Welcome to 'Computational Thinking Tools.' Explore system modeling with Simulink, the Live Editor, and virtual labs. Discover MATLAB and Simulink's diverse applications in this formal introduction to computational thinking
+Welcome to 'Computational Thinking Tools.' Explore system modeling with Simulink, the Live Editor, and virtual labs. Discover MATLAB and Simulink's diverse applications in this formal introduction to computational thinking.
+
 ![image](https://github.com/ClaudiaYasar/Computational-Thinking-Tools/assets/132692602/bceeade7-5df3-460c-8c22-8c57ebe36f8f)
 
 # Acknowledgements
